@@ -1,0 +1,3 @@
+https://www.example.com
+https://www.example.com/foo
+https://www.example.com/bar

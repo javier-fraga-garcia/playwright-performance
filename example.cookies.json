@@ -1,0 +1,22 @@
+[
+    {
+        "name": "OptanonAlertBoxClosed",
+        "value": "value",
+        "domain": ".example.com",
+        "path": "/",
+        "expires": 1329868765,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "OptanonConsent",
+        "value": "value",
+        "domain": ".example.com",
+        "path": "/",
+        "expires": 138758976,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    }
+]
