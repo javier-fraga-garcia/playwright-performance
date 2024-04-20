@@ -1,7 +1,5 @@
-import json
 import typer
 import pandas as pd
-from playwright.sync_api import sync_playwright
 from utils.performance import run_audits
 
 def main(

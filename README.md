@@ -18,7 +18,7 @@ Script para auditar la performance web utilizando como **Playwright**. Se carga 
     ```
 3. Instalar las dependencias
     ```bash
-    pip install -r requirments.txt
+    pip install -r requirements.txt
     ```
 
 ## Uso
